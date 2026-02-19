@@ -1,4 +1,4 @@
-k# 🖥️ Arch Linux Hyprland Dotfiles
+🖥️ Arch Linux Hyprland Dotfiles
 
 Minimal, clean, and modern **Arch Linux + Hyprland** setup with curated configs and theme integration.
 
