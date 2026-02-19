@@ -22,14 +22,33 @@ Minimal, clean, and modern **Arch Linux + Hyprland** setup with curated configs 
 
 ## 🖼️ Screenshots
 
+## 🖼️ Screenshots
+
 <p align="center">
-  <img src="assets/preview-1.png" width="90%">
+  <img src="assets/preview-1.png" width="45%">
+  <img src="assets/preview-2.png" width="45%">
 </p>
 
 <p align="center">
-  <img src="assets/preview-2.png" width="45%">
   <img src="assets/preview-3.png" width="45%">
+  <img src="assets/preview-4.png" width="45%">
 </p>
+
+<p align="center">
+  <img src="assets/preview-5.png" width="45%">
+  <img src="assets/preview-6.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="assets/preview-7.png" width="45%">
+  <img src="assets/preview-8.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="assets/preview-9.png" width="45%">
+  <img src="assets/preview-10.png" width="45%">
+</p>
+
 
 > Add your screenshots inside the `assets/` folder.
 
