@@ -10,3 +10,6 @@ cd arch-hyprland-dotfiles
 chmod +x install.sh
 ./install.sh
 ```
+## Notes
+- Wallpaper/asset included in this repo: `hypr/assets/wallpaper.png`
+- If you want to change wallpaper, replace that file and keep the same path.
