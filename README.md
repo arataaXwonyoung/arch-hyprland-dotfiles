@@ -20,7 +20,6 @@ Minimal, clean, and modern **Arch Linux + Hyprland** setup with curated configs 
 
 ---
 
-## 🖼️ Screenshots
 
 ## 🖼️ Screenshots
 
@@ -110,8 +109,8 @@ Backup location:
 
 > Update based on your hyprland config
 
-* SUPER + Enter → Terminal
-* SUPER + D → Launcher
+* SUPER + T → Terminal
+* SUPER + D → Close 
 * Print → Screenshot
 
 ---
